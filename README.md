@@ -53,7 +53,7 @@ Kill all the witches to complete a level.
 
 Complete all three levels to win the game.
 
-##Requirements
+## Requirements
 
 - JDK version 8 or above (Java Development Kit)
 
