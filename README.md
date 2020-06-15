@@ -65,7 +65,7 @@ Complete all three levels to win the game.
 
 - Sumaiyyah Tahir
 
-- Khadija Binte Bilal.
+- Khadija Binte Bilal
 
 
 ## Note
