@@ -63,7 +63,7 @@ Complete all three levels to win the game.
 ## Contributors
 - Aisha Tariq
 
-- Sumaiyyah Tahir
+- Sumaiyyah Tahir..
 
 - Khadija Binte Bilal
 
